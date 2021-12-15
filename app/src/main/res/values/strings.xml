@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SampleCrud</string>
+    <string name="userName">User Name</string>
+    <string name="password">Password</string>
+    <string name="btnselect">Select All</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSignin">Sign In</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnUpdate">Update</string>
+    <string name="edName">Name</string>
+    <string name="edAge">Age</string>
+</resources>
